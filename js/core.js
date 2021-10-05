@@ -292,7 +292,7 @@ var i18n_map = {
     "en": "钹",
     "ca": "Cymbal"},
   "Cowbell": {
-    "en": "铃鼓",
+    "en": "牛铃",
     "ca": "Cowbell"},
   "Tambourine": {
     "en": "铃鼓",
