@@ -36,10 +36,11 @@ header, footer {
   width: calc(100% - 20px);
   padding: 10px;
   z-index: 500
+  color: #969696;
 }
 
 header a, footer a {
-  color: #000;
+  color: #969696;
   text-decoration: none
 }
 
