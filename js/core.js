@@ -325,14 +325,14 @@ var i18n_map = {
     "en": "<a href=\"/?lang=ca\">In English</a>",
     "ca": "<a href=\"/?lang=en\">中文</a>"},
   "courtesy": {
-    "en": "Art courtesy of ",
-    "ca": "Art courtesy of "},
+    "en": "Art courtesy of @StrayRogue",
+    "ca": "Art courtesy of @StrayRogue"},
   "meme": {
-    "en": "Meme by ",
-    "ca": "Meme by "},
+    "en": "Meme by @DitzyFlama",
+    "ca": "Meme by @DitzyFlama"},
   "website": {
-    "en": "Website by ",
-    "ca": "Website by"},
+    "en": "Website by @Externalizable",
+    "ca": "Website by @Externalizable"},
   "cookies": {
     "en": "This website uses cookies to analyze traffic via anonymized and aggregated data.",
     "ca": "Aquest lloc web utilitza galetes per analitzar el trànsit mitjançant dades agregades i anonimitzades."}
