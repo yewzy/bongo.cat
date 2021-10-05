@@ -286,53 +286,53 @@ var link_DitzyFlama = "<a href=\"https://twitter.com/DitzyFlama\" target=\"_blan
 var link_EricHuber = "<a href=\"https://erics.site/?utm_source=bongo.cat\" target=\"_blank\">Eric Huber</a> (<a href=\"https://twitter.com/Externalizable\" target=\"_blank\">@Externalizable</a>)";
 var i18n_map = {
   "Bongos": {
-    "en": "Bongos",
+    "en": "手鼓",
     "ca": "Bongos"},
   "Cymbal": {
-    "en": "Cymbal",
-    "ca": "Plat"},
+    "en": "钹",
+    "ca": "Cymbal"},
   "Cowbell": {
-    "en": "Cowbell",
-    "ca": "Esquellot"},
+    "en": "铃鼓",
+    "ca": "Cowbell"},
   "Tambourine": {
-    "en": "Tambourine",
-    "ca": "Pandereta"},
+    "en": "铃鼓",
+    "ca": "Tambourine"},
   "Meow": {
-    "en": "Meow",
-    "ca": "Miol"},
+    "en": "喵",
+    "ca": "Meow"},
   "SPACE": {
     "en": "SPACE",
-    "ca": "ESPAI"},
+    "ca": "SPACE"},
   "Piano": {
-    "en": "Piano",
+    "en": "钢琴",
     "ca": "Piano"},
   "Marimba": {
-    "en": "Marimba",
+    "en": "马林巴",
     "ca": "Marimba"},
   "Keyboard": {
-    "en": "Keyboard",
-    "ca": "Teclat"},
+    "en": "键盘",
+    "ca": "Keyboard"},
   "LEFT": {
-    "en": "LEFT",
-    "ca": "ESQUERRA"},
+    "en": "左键",
+    "ca": "LEFT"},
   "RIGHT": {
-    "en": "RIGHT",
-    "ca": "DRETA"},
+    "en": "右键",
+    "ca": "RIGHT"},
   "MEOW": {
-    "en": "MEOW",
-    "ca": "MIOL"},
+    "en": "喵",
+    "ca": "MEOW"},
   "other-lang": {
-    "en": "<a href=\"/?lang=ca\">En català</a>",
-    "ca": "<a href=\"/?lang=en\">In English</a>"},
+    "en": "<a href=\"/?lang=ca\">In English</a>",
+    "ca": "<a href=\"/?lang=en\">中文</a>"},
   "courtesy": {
     "en": "Art courtesy of "+link_StrayRogue,
-    "ca": "Art per cortesia de "+link_StrayRogue},
+    "ca": "Art courtesy of  "+link_StrayRogue},
   "meme": {
     "en": "Meme by "+link_DitzyFlama,
-    "ca": "Meme de "+link_DitzyFlama},
+    "ca": "Meme by "+link_DitzyFlama},
   "website": {
     "en": "Website by "+link_EricHuber,
-    "ca": "Lloc web d&#39"+link_EricHuber},
+    "ca": "Website by"+link_EricHuber},
   "cookies": {
     "en": "This website uses cookies to analyze traffic via anonymized and aggregated data.",
     "ca": "Aquest lloc web utilitza galetes per analitzar el trànsit mitjançant dades agregades i anonimitzades."}
